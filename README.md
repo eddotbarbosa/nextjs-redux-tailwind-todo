@@ -2,7 +2,7 @@
 
 A project made with nextjs, redux and tailwind to experiment some approaches.
 
-![alt text](gitassets/project-preview.png.png)
+![alt text](gitassets/project-preview.png)
 
 ## Features
 * add task
